@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+
+- 💼 My day job: Does everything cloud, mainly Azure.  
+- 📫 How to reach me: https://www.linkedin.com/in/venura9/
+- 🌏 I have travelled and lived in: 🇱🇰🇦🇺🇰🇪🇸🇬🇮🇳🇲🇻🇰🇭🇹🇭
 <!--
+
+
 **venura9/venura9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
