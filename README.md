@@ -3,7 +3,7 @@
 
 - 💼 My day job: Does everything cloud, mainly Azure.  
 - 📫 How to reach me: https://www.linkedin.com/in/venura9/
-- 🌏 I have travelled and lived in: 🇱🇰🇦🇺🇰🇪🇸🇬🇮🇳🇲🇻🇰🇭🇹🇭
+- 🌏 I have travelled and lived in: 🇱🇰 🇦🇺 🇰🇪 🇸🇬 🇮🇳 🇲🇻 🇰🇭 🇹🇭
 <!--
 
 
