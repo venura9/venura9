@@ -1,15 +1,21 @@
-### Hi there 👋
+📫 [Contact me on LinkedIn](https://www.linkedin.com/in/venura9/ "Venura's LinkedIn")
+
+💼 Professional Experience
+
+Certifications
+
+🎓Education 
 
 
-- 💼 My day job: Does everything cloud, mainly Azure.  
-- 📫 How to reach me: https://www.linkedin.com/in/venura9/
-- 🌏 I have travelled and lived in: 🇱🇰 🇦🇺 🇰🇪 🇸🇬 🇮🇳 🇲🇻 🇰🇭 🇹🇭
+ 
 <!--
 
 
 **venura9/venura9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+🌏 I have travelled and lived in: 🇱🇰 🇦🇺 🇰🇪 🇸🇬 🇮🇳 🇲🇻 🇰🇭 🇹🇭
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
