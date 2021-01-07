@@ -2,12 +2,18 @@
 
 #### 💼 Professional Experience
 
-#### Certifications
+#### 🏆 Certifications
 
-* *Microsoft Certified: Azure Solutions Architect Expert*
-* *Microsoft Certified: Azure Security Engineer Associate*
+* [*Microsoft Certified: Azure Solutions Architect Expert*](https://www.youracclaim.com/badges/71a170d9-e72b-49d4-8d36-243479e656dc/linked_in_profile)
+* [*Microsoft Certified: Azure Security Engineer Associate*](https://www.youracclaim.com/badges/314f8289-4074-4417-96fb-0af3edd92ccb/linked_in_profile)
 
-#### 🎓Education 
+#### 🎓Education
+
+* *University of Kelaniya Sri Lanka*
+> Degree Name B.Sc in MIT (Hons)
+> Field Of Study Information Technology
+> Grade Second-class honours, upper division
+> Years of Study 2005 – 2008
 
 
  
