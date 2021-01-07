@@ -1,5 +1,9 @@
 #### 📫 [Contact me on LinkedIn](https://www.linkedin.com/in/venura9/ "Venura's LinkedIn")
 
+#### About Me
+
+#### 💼 Skills
+
 #### 💼 Professional Experience
 
 #### 🏆 Certifications
