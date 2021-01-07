@@ -1,10 +1,13 @@
-📫 [Contact me on LinkedIn](https://www.linkedin.com/in/venura9/ "Venura's LinkedIn")
+#### 📫 [Contact me on LinkedIn](https://www.linkedin.com/in/venura9/ "Venura's LinkedIn")
 
-💼 Professional Experience
+#### 💼 Professional Experience
 
-Certifications
+#### Certifications
 
-🎓Education 
+* ##### *Microsoft Certified: Azure Solutions Architect Expert
+* ##### *Microsoft Certified: Azure Security Engineer Associate
+
+#### 🎓Education 
 
 
  
