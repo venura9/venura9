@@ -9,11 +9,11 @@
 
 #### 🎓Education
 
-* ####University of Kelaniya Sri Lanka*
-> Degree Name: B.Sc in MIT (Hons) \
-> Field of Study: Information Technology \
-> Grade: Second-class honours, upper division \
-> Years of Study: 2005 – 2008
+* #### *University of Kelaniya Sri Lanka*
+> *Degree Name: B.Sc in MIT (Hons)* \
+> *Field of Study: Information Technology* \
+> *Grade: Second-class honours, upper division* \
+> *Years of Study: 2005 – 2008*
 
 
  
