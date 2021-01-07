@@ -9,7 +9,7 @@
 
 #### 🎓Education
 
-* *University of Kelaniya Sri Lanka*
+* ####University of Kelaniya Sri Lanka*
 > Degree Name B.Sc in MIT (Hons)
 > Field Of Study Information Technology
 > Grade Second-class honours, upper division
