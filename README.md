@@ -16,9 +16,9 @@
 * #### *University of Colombo, Sri Lanka*
 > *Degree Name: Postgraduate Diploma in Information Security* \
 > *Field of Study: Information Security* \
-> *Years of Study: 2012*
+> *Year(s) of Study: 2012*
 
 * #### *University of Kelaniya, Sri Lanka*
 > *Degree Name: B.Sc in MIT (Hons) - Second-class honours, upper division* \
 > *Field of Study: Information Technology* \
-> *Years of Study: 2005 – 2008*
+> *Year(s) of Study: 2005 – 2008*
