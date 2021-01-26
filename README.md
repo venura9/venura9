@@ -1,4 +1,4 @@
-#### 📫 [Contact me on LinkedIn](https://www.linkedin.com/in/venura9/ "Venura's LinkedIn")
+#### 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/venura9/ "Venura's LinkedIn")
 
 #### ℹ️ About Me
 
