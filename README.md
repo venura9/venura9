@@ -1,3 +1,5 @@
+<!--
+
 #### 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/venura9/ "Venura's LinkedIn")
 
 #### ℹ️ About Me
@@ -22,3 +24,5 @@
 > *Degree Name: B.Sc in MIT (Hons) - Second-class honours, upper division* \
 > *Field of Study: Information Technology* \
 > *Year(s) of Study: 2005 – 2008*
+
+-->
