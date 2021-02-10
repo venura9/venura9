@@ -1,13 +1,38 @@
-#### ℹ️ About Me
+### ℹ️ About Me
 
 Leader in the space of Cloud and Automation, with the passion to drive technology teams to be successful end-to-end.
 Over the years I've been exposed to different stages of the system/software lifecycle with experience across Development, DevOps, Product Management, Operations, Architecture and Practice building. 
 
-#### 🤹 Skills
+### 🤹 Skills
 
-#### 💼 Experience
+- Exposed Programming Languagges: PHP, HTML/JavaScript, Java, Erlang, Python, .NET Framework/Core (C#)
+- Hyperscaler Clouds: Azure
+- CI/CD: Azure DevOps, GitHub Actions
+- IaC: Terraform/ARM/Pulumi
 
-#### 🏆 Certifications
+### 💼 Experience
+
+*Azure Practice Lead [@AC3](https://www.ac3.com.au)* \
+*May 2019 - Current* \
+
+>#### *Role*
+>#### *Projects*
+
+May 2019 - Current \
+Azure Practice Lead [@AC3](https://www.ac3.com.au)
+
+#### Role
+#### Projects
+
+May 2019 - Current \
+Azure Practice Lead [@AC3](https://www.ac3.com.au)
+
+#### Role
+#### Projects
+
+
+
+### 🏆 Certifications
 
 * [*Microsoft Certified: Azure Solutions Architect Expert*](https://www.youracclaim.com/badges/71a170d9-e72b-49d4-8d36-243479e656dc/linked_in_profile)
 * [*Microsoft Certified: Azure Security Engineer Associate*](https://www.youracclaim.com/badges/314f8289-4074-4417-96fb-0af3edd92ccb/linked_in_profile)
