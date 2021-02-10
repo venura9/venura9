@@ -3,12 +3,22 @@
 Leader in the space of Cloud and Automation, with the passion to drive technology teams to be successful end-to-end.
 Over the years I've been exposed to different stages of the system/software lifecycle with experience across Development, DevOps, Product Management, Operations, Architecture and Practice building. 
 
-### 🤹 Skills
+### 🤹 Technical Skills
 
 - Exposed Programming Languagges: PHP, HTML/JavaScript, Java, Erlang, Python, .NET Framework/Core (C#)
-- Hyperscaler Clouds: Azure
-- CI/CD: Azure DevOps, GitHub Actions
-- IaC: Terraform/ARM/Pulumi
+- 
+- 
+- IaC: ARM, Terraform, Pulumi
+<ul>
+  <li>Hyperscaler Clouds: Azure
+  <li>CI/CD: Azure DevOps, GitHub Actions
+  <ul> 
+    <li>Scripting - Bash/PowerShell/Python
+    <li>Mark-up - HTML, XML, JSON, YAML 
+    <li>Web Development – C#, PHP, JavaScript/Node, Java/J2EE
+    <li>Other – C++, Erlang OTP
+  </ul>
+</ul>
 
 ### 💼 Experience
 
@@ -48,3 +58,6 @@ Azure Practice Lead [@AC3](https://www.ac3.com.au)
 > *Degree Name: B.Sc in MIT (Hons) - Second-class honours, upper division* \
 > *Field of Study: Information Technology* \
 > *Year(s) of Study: 2005 – 2008*
+
+### 🤹 Other Skills
+
