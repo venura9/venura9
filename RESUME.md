@@ -1,44 +1,50 @@
 ### ℹ️ About Me
 
-Leader in the space of Cloud and Automation, with the passion to drive technology teams to be successful end-to-end.
-Over the years I've been exposed to different stages of the system/software lifecycle with experience across Development, DevOps, Product Management, Operations, Architecture and Practice building. 
+I like to call my self a `Leader` in the space of Cloud and Automation, with the passion to drive technology teams to be successful end-to-end.
+
+Over the years I've been exposed to different stages of the system/software lifecycle with experience across Development, DevOps, Product Management, Operations, Architecture and Practice building. This enables me to operate at rapid phase to get things done, on time, with quality. 
+
+I believe in harnessing the true potential of hyperscale clouds by being closer to native services and not by implementing "multi-cloud" strategies. 
 
 ### 🤹 Technical Skills
 
-- Exposed Programming Languagges: PHP, HTML/JavaScript, Java, Erlang, Python, .NET Framework/Core (C#)
 - 
-- 
-- IaC: ARM, Terraform, Pulumi
 <ul>
   <li>Hyperscaler Clouds: Azure
   <li>CI/CD: Azure DevOps, GitHub Actions
   <ul> 
-    <li>Scripting - Bash/PowerShell/Python
-    <li>Mark-up - HTML, XML, JSON, YAML 
-    <li>Web Development – C#, PHP, JavaScript/Node, Java/J2EE
-    <li>Other – C++, Erlang OTP
+    <li>Exposed Programming Languagges: PHP, HTML/JavaScript(various), Java, Erlang OTP, Python, .NET Framework/Core (C#)
   </ul>
+  <li>IaC: ARM (Templates, Azure CLI, Az PowerShell), Terraform, Pulumi
 </ul>
+
+- 
 
 ### 💼 Experience
 
 *Azure Practice Lead [@AC3](https://www.ac3.com.au)* \
 *May 2019 - Current* \
 
->#### *Role*
->#### *Projects*
+- Leader for the Azure Practice for the Organisation
+Subject matter expert and the trusted advisor for the customers.
+Growing the internal team skills via evagalism, 
+
+
+
+•	Key Azure Resource for the Organisation guiding the Architects, Cloud Engineering and the Cloud Operations Teams.
+•	Responsible for the direction of the Azure Practice inclusive of Certification, Competencies & managing the Partnership with Microsoft.
+•	Solution Architecture on Next-Generation, Sitecore & Migration Projects.
+•	Product Management in terms of the Organisational Azure Offerings.
+
+
 
 May 2019 - Current \
 Azure Practice Lead [@AC3](https://www.ac3.com.au)
 
-#### Role
-#### Projects
 
 May 2019 - Current \
 Azure Practice Lead [@AC3](https://www.ac3.com.au)
 
-#### Role
-#### Projects
 
 
 
