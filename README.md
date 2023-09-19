@@ -3,9 +3,9 @@
 
 # About
 
-> Cloud-Native Technology Leader with 15+ years of high-stakes delivery experience and 7 years in enterprise cloud transformation roles. Proven expertise in Cloud Practice Leadership, Thought Leadership, Cloud Architecture, Platform Engineering and Business Development.
-> <br/><br/>
-> Delivers highly-optimised scalable and secure enterprise platforms, attracts and builds top talent, building a genuine high-performance culture and mindset.
+Cloud-Native Technology Leader with 15+ years of high-stakes delivery experience and 7 years in enterprise cloud transformation roles. Proven expertise in Cloud Practice Leadership, Thought Leadership, Cloud Architecture, Platform Engineering and Business Development.
+<br/><br/>
+Delivers highly-optimised scalable and secure enterprise platforms, attracts and builds top talent, building a genuine high-performance culture and mindset.
 
 # Key achievements
 
@@ -66,5 +66,21 @@ As a Technical Principal, I worked closely with our customers to provide Technic
 Special: Dojo program Team for Contino (Designing the Azure Stream) - the program attracted great IT minds and boosted their Cloud Skills which added more depth to the already amazing talent pool at Contino.
 
 _Skills: Cloud Transformation · Technology Leadership · CNCF · Serverless · Landing Zones · Microsoft Azure · DevOps_
+
+
+### Azure Practice Lead @AC3 (Melbourne, AU)
+_May 2019 - Mar 2021_
+
+As the Azure Practice Lead, I have been able to bring maturity to the Microsoft Cloud Practice whilst attaining several Microsoft Competencies/Specialisations and driving a number of successful Azure Projects end-to-end providing technical oversight and leadership.
+
+**Key Responsibilities:**
+
+- Leading the Cloud Practice from the front as the Key Azure Resource for the Organisation. Guiding the Architecture, Cloud Engineering and the Cloud Operations Teams.
+- Responsible for the direction of the Azure Practice inclusive of Cloud Offerings, Certification, Upskilling, Competencies & Partnership management with Microsoft.
+- Solution Architecture / Presales on Next-Generation, Modernisation, Cloud Foundations & Migration Projects.
+- Product Management for AC3's Azure Offerings.
+- Key Technology resource for the Managed Services arm, assisting with technology and commercial landscape of Azure Cloud Solution Partner program.
+
+_Skills: Cloud Transofmration · Managed Services · Cloud Adoption Framework · Cloud Practice Management · DevOps · Azure · Cloud Foundations_
 
 
