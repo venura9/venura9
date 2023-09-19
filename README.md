@@ -16,13 +16,13 @@
 
 # Experience
 
-## Distinguished Technologist @Contino
-Jul 2022 – Present
+### Distinguished Technologist @Contino (Melbourne, AU)
+_Jul 2022 – Present_
 
 The role focuses on providing leadership, guidance, mentorship and technical expertise across Cloud (mainly Azure) and Automation, in addition to being a leader in complex technology project delivery and driving the organisational revenue through sales and partner engagement. 
 As a part of the role, I've been Leading the Azure Community and have been a key figure in assisting several other Communities & Practices. We've built valuable intellectual property and patterns that helped us deliver value and make sales more efficiently and with more confidence.
 
-### Key Responsibilities:
+**Key Responsibilities:**
 
 - Engineering capability uplift whilst harnessing and building intellectual property.
 - Cloud/ Engineering community building and leadership.
