@@ -32,26 +32,6 @@ As a part of the role, I've been Leading the Azure Community and have been a key
 
 _Skills: Community Builder · Thought Leadership · Capability Building · Cloud Transformation · Azure_
 
-
-
-
-### Distinguished Technologist @Contino (Melbourne, AU)
-_Jul 2022 – Present_
-
-The role focuses on providing leadership, guidance, mentorship and technical expertise across Cloud (mainly Azure) and Automation, in addition to being a leader in complex technology project delivery and driving the organisational revenue through sales and partner engagement. 
-As a part of the role, I've been Leading the Azure Community and have been a key figure in assisting several other Communities & Practices. We've built valuable intellectual property and patterns that helped us deliver value and make sales more efficiently and with more confidence.
-
-**Key Responsibilities:**
-
-- Engineering capability uplift whilst harnessing and building intellectual property.
-- Cloud/ Engineering community building and leadership.
-- Responsible for the Technical Delivery of complex Cloud transformation projects. 
-- Providing thought Leadership Internally, Externally and in front of Customers. 
-- Engagement Leadership going over and above pre-sales assisting with the sales pipeline.
-
-_Skills: Community Builder · Thought Leadership · Capability Building · Cloud Transformation · Azure_
-
-
 ### Technical Principal @Contino (Melbourne, AU)
 _Mar 2021 - Jul 2022_
 
@@ -82,5 +62,3 @@ As the Azure Practice Lead, I have been able to bring maturity to the Microsoft 
 - Key Technology resource for the Managed Services arm, assisting with technology and commercial landscape of Azure Cloud Solution Partner program.
 
 _Skills: Cloud Transofmration · Managed Services · Cloud Adoption Framework · Cloud Practice Management · DevOps · Azure · Cloud Foundations_
-
-
