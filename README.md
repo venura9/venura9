@@ -31,3 +31,40 @@ As a part of the role, I've been Leading the Azure Community and have been a key
 - Engagement Leadership going over and above pre-sales assisting with the sales pipeline.
 
 _Skills: Community Builder · Thought Leadership · Capability Building · Cloud Transformation · Azure_
+
+
+
+
+### Distinguished Technologist @Contino (Melbourne, AU)
+_Jul 2022 – Present_
+
+The role focuses on providing leadership, guidance, mentorship and technical expertise across Cloud (mainly Azure) and Automation, in addition to being a leader in complex technology project delivery and driving the organisational revenue through sales and partner engagement. 
+As a part of the role, I've been Leading the Azure Community and have been a key figure in assisting several other Communities & Practices. We've built valuable intellectual property and patterns that helped us deliver value and make sales more efficiently and with more confidence.
+
+**Key Responsibilities:**
+
+- Engineering capability uplift whilst harnessing and building intellectual property.
+- Cloud/ Engineering community building and leadership.
+- Responsible for the Technical Delivery of complex Cloud transformation projects. 
+- Providing thought Leadership Internally, Externally and in front of Customers. 
+- Engagement Leadership going over and above pre-sales assisting with the sales pipeline.
+
+_Skills: Community Builder · Thought Leadership · Capability Building · Cloud Transformation · Azure_
+
+
+### Technical Principal @Contino (Melbourne, AU)
+_Mar 2021 - Jul 2022_
+
+As a Technical Principal, I worked closely with our customers to provide Technical Oversight/Leadership both at Pre and Post Sales stages, getting involved in the end-to-end customer engagement lifecycle. As a part of the role, I've been Leading the Azure Community and have been a key figure in assisting several other Communities & Practices. We've built valuable intellectual property and patterns that helped us deliver value and make sales more efficiently and with more confidence.
+
+**Key Responsibilities:**
+
+- Responsible for the Technical Delivery of Customer Requirements, providing Technical Leadership.
+- Providing thought Leadership Internally, Externally and in front of Customers.
+- Technical Pre-Sales for Cloud Solutions, RFI/RFP, Etc.
+
+Special: Dojo program Team for Contino (Designing the Azure Stream) - the program attracted great IT minds and boosted their Cloud Skills which added more depth to the already amazing talent pool at Contino.
+
+_Skills: Cloud Transformation · Technology Leadership · CNCF · Serverless · Landing Zones · Microsoft Azure · DevOps_
+
+
