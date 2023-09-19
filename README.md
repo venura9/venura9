@@ -30,4 +30,4 @@ As a part of the role, I've been Leading the Azure Community and have been a key
 - Providing thought Leadership Internally, Externally and in front of Customers. 
 - Engagement Leadership going over and above pre-sales assisting with the sales pipeline.
 
-`Skills: Community Builder · Thought Leadership · Capability Building · Cloud Transformation · Azure`
+> `Skills: Community Builder · Thought Leadership · Capability Building · Cloud Transformation · Azure`
