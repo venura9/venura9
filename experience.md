@@ -1,7 +1,7 @@
 # Experience
 
 ## **Distinguished Technologist / Engadgement Lead**
-_Contino, a Cognizant Company (Jul 2022 – Present, Melbourne, VIC, AU)_\
+_Contino, Acquired by Cognizant  (Jul 2022 – Present, Melbourne, VIC, AU)_\
 _`From 01/May/2023 reffered as Congnizant Servian Service Line in Australia`_
 
 The role focuses on providing leadership, guidance, mentorship and technical expertise across Cloud (mainly Azure) and Automation, in addition to being a leader in complex technology project delivery and driving the organisational revenue through sales and partner engagement. 
@@ -19,7 +19,7 @@ Key Responsibilities:
 > _Skills: Community Builder · Thought Leadership · Capability Building · Cloud Transformation · Azure_
 
 ## **Technical Principal**
-_Contino, a Cognizant Company (Mar 2021 – Jul 2022, Melbourne, VIC, AU)_
+_Contino, Acquired by Cognizant (Mar 2021 – Jul 2022, Melbourne, VIC, AU)_
 
 As a Technical Principal, I worked closely with our customers to provide Technical Oversight/Leadership both at Pre and Post Sales stages, getting involved in the end-to-end customer engagement lifecycle.
 
