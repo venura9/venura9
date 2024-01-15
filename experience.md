@@ -1,6 +1,6 @@
-## Experience
+# Experience
 
-### **Distinguished Technologist / Engadgement Lead**
+## **Distinguished Technologist / Engadgement Lead**
 _Contino, a Cognizant Company (Jul 2022 – Present, Melbourne, VIC, AU)_
 
 The role focuses on providing leadership, guidance, mentorship and technical expertise across Cloud (mainly Azure) and Automation, in addition to being a leader in complex technology project delivery and driving the organisational revenue through sales and partner engagement. 
@@ -15,9 +15,9 @@ Key Responsibilities:
 - Providing thought Leadership Internally, Externally and in front of Customers.
 - Engagement Leadership going over and above pre-sales assisting with the sales pipeline.
 
-**_Skills: Community Builder · Thought Leadership · Capability Building · Cloud Transformation · Azure_**
+> _Skills: Community Builder · Thought Leadership · Capability Building · Cloud Transformation · Azure_
 
-### **Technical Principal**
+## **Technical Principal**
 _Contino, a Cognizant Company (Mar 2021 – Jul 2022, Melbourne, VIC, AU)_
 
 As a Technical Principal, I worked closely with our customers to provide Technical Oversight/Leadership both at Pre and Post Sales stages, getting involved in the end-to-end customer engagement lifecycle.
@@ -33,9 +33,9 @@ Key Responsibilities:
 Other Notablles:
 Dojo program Team for Contino (Designing the Azure Stream) - the program attracted great IT minds and boosted their Cloud Skills which added more depth to the already amazing talent pool at Contino.
 
-Skills: Cloud Transformation · Technology Leadership · CNCF · Serverless · Landing Zones · Microsoft Azure · DevOps
+> Skills: Cloud Transformation · Technology Leadership · CNCF · Serverless · Landing Zones · Microsoft Azure · DevOps
 
-### **Azure Practice Lead**
+## **Azure Practice Lead**
 _AC3 (May 2019 – Mar 2021, Melbourne, VIC, AU)_
 
 As the Azure Practice Lead, I have been able to bring maturity to the Microsoft Cloud Practice whilst attaining several Microsoft Competencies/Specialisations and driving a number of successful Azure Projects end-to-end providing technical oversight and leadership.
@@ -48,9 +48,9 @@ Key Responsibilities:
 - Product Management for AC3's Azure Offerings.
 - Key Technology resource for the Managed Services arm, assisting with technology and commercial landscape of Azure Cloud Solution Partner program.
 
-Skills: Cloud Transofmration · Managed Services · Cloud Adoption Framework · Cloud Practice Management · DevOps · Azure · Cloud Foundations
+> Skills: Cloud Transofmration · Managed Services · Cloud Adoption Framework · Cloud Practice Management · DevOps · Azure · Cloud Foundations
 
-### **Cloud Solution Architect**
+## **Cloud Solution Architect**
 _KPMG Australia (Dec 2018 – May 2019, Melbourne, VIC, AU)_
 
 Solution Architect and evangelist for Azure, Cloud and DevOps for the KPMG Lighthouse Technology Solutions Team. 
@@ -59,11 +59,11 @@ Worked on Architecting number of solutions in a variety of tech-stacks;
 App Services/ASE/Serverless | API Management | AI/Bots Framework | Block-chain with AKS | Azure Identity | IAAS Solutions (Migrations and 3rd Party buy-in Architectures)
 
 Worked on setting the standards and creating re-usable patterns across the firm and globally
- • Patterns: Application infrastructure automation | Network/Security infrastructure automation. | Pipelines (CI/CD) as Code | Configuration as Code
- • Designing and implementing solutions to automate the provisioning of patterns, enforcing various DevOps and Security Best Practices.
+ - Patterns: Application infrastructure automation | Network/Security infrastructure automation. | Pipelines (CI/CD) as Code | Configuration as Code
+ - Designing and implementing solutions to automate the provisioning of patterns, enforcing various DevOps and Security Best Practices.
 
 
-### **Principal DevOps Engineer**
+## **Principal DevOps Engineer**
 _KPMG Australia (Jun 2018 – Dec 2018, Melbourne, VIC, AU)_
 
 - Key Azure/DevOps technical resource for the KPMG Lighthouse Technology Solutions Team as the key cloud architecture resource.
@@ -71,7 +71,7 @@ _KPMG Australia (Jun 2018 – Dec 2018, Melbourne, VIC, AU)_
 - Worked on developing and enhancing the DevOps pipelines of existing / new applications.
 - Introduced the “everything as code” concept to unlock the various development teams within KPMG Australia to manage their own CI/ CD, setting them up with the right access, governance and resources. 
 
-### **Principal DevOps Engineer**
+## **Principal DevOps Engineer**
 _KPMG Australia (Apr 2017 – June 2018, Melbourne, VIC, AU)_
 
 - Part of KPMG’s Digital Services initiative responsible for the continuous delivery of a large number of enterprise digital applications.
@@ -80,7 +80,7 @@ _KPMG Australia (Apr 2017 – June 2018, Melbourne, VIC, AU)_
 - Worked on both Pass and IaaS solutions running various programming stacks including C# .Net, Java and various JavaScript frameworks.
 - DevOps Lead for a team of seven engineers.
 
-### **Service Delivery Systems Engineer**
+## **Service Delivery Systems Engineer**
 _Aconex, Acquired by Oracle (Mar 2016 – Apr 2017, Melbourne, VIC, AU)_
 
 - Part of Corporate Systems, one of the main pillar of Aconex Corporate IT.
