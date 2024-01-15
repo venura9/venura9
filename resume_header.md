@@ -4,9 +4,9 @@ _A Human-centric Thought Leader, developing the theory of "Applied Common Sense 
 
 ## Overview
 
-- Cloud-Native Technology Leader with 15+ years of high-stakes delivery experience and 7 years in enterprise cloud transformation roles. 
-- Proven expertise in practice leadership, thought leadership, cloud architecture, platform engineering and business development. 
-- Delivers highly-optimised scalable and secure enterprise platforms, attracts and builds top talent, building a genuine high-performance culture and mindset.
+Cloud-Native Technology Leader with 15+ years of high-stakes delivery experience and 7 years in enterprise cloud transformation roles. Proven expertise in Cloud Practice Leadership, Thought Leadership, Cloud Architecture, Platform Engineering and Business Development.
+
+Delivers highly-optimised scalable and secure enterprise platforms, attracts and builds top talent, building a genuine high-performance culture and mindset.
 
 **_Key Achievements:_**
 
