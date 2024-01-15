@@ -56,10 +56,9 @@ _KPMG Australia (Dec 2018 – May 2019, Melbourne, VIC, AU)_
 
 Solution Architect and evangelist for Azure, Cloud and DevOps for the KPMG Lighthouse Technology Solutions Team. 
 
-Worked on Architecting number of solutions in a variety of tech-stacks;
-- App Services/ASE/Serverless | API Management | AI/Bots Framework | Block-chain with AKS | Azure Identity | IAAS Solutions (Migrations and 3rd Party buy-in Architectures)
-
-Worked on setting the standards and creating re-usable patterns across the firm and globally
+- Worked on Architecting number of solutions in a variety of tech-stacks:
+ - App Services, ASE, Serverless | API Management | AI/Bots Framework | Block-chain with AKS | Azure Identity | IAAS Solutions (Migrations and 3rd Party buy-in Architectures)
+- Worked on setting the standards and creating re-usable patterns across the firm and globally:
  - Patterns: Application infrastructure automation | Network/Security infrastructure automation. | Pipelines (CI/CD) as Code | Configuration as Code
  - Designing and implementing solutions to automate the provisioning of patterns, enforcing various DevOps and Security Best Practices.
 
