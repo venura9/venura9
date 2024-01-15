@@ -25,7 +25,7 @@ jobs:
             -V geometry:nohead
             resume_header.md experience.md certifications.md education.md
           
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: output
-          path: output/resume.pdf
+          path: ./output/resume.pdf
