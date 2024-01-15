@@ -19,7 +19,8 @@ jobs:
         with:
           args: >-
             --pdf-engine=xelatex
-            --output=output/resume.pdf resume_header.md experience.md certifications.md education.md
+            --output=output/resume.pdf
+            resume_header.md experience.md certifications.md education.md
           
       - uses: actions/upload-artifact@v3
         with:
