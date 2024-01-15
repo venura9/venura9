@@ -1,7 +1,8 @@
 # Experience
 
 ## **Distinguished Technologist / Engadgement Lead**
-_Contino, a Cognizant Company (Jul 2022 – Present, Melbourne, VIC, AU)_
+_Contino, a Cognizant Company (Jul 2022 – Present, Melbourne, VIC, AU)_\
+_`From 01/May/2023 reffered as Congnizant Servian Service Line in Australia`_
 
 The role focuses on providing leadership, guidance, mentorship and technical expertise across Cloud (mainly Azure) and Automation, in addition to being a leader in complex technology project delivery and driving the organisational revenue through sales and partner engagement. 
 
