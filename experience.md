@@ -15,6 +15,8 @@ Key Responsibilities:
 - Providing thought Leadership Internally, Externally and in front of Customers.
 - Engagement Leadership going over and above pre-sales assisting with the sales pipeline.
 
+**_Skills: Community Builder · Thought Leadership · Capability Building · Cloud Transformation · Azure_**
+
 ### **Technical Principal**
 _Contino, a Cognizant Company (Mar 2021 – Jul 2022, Melbourne, VIC, AU)_
 
@@ -31,6 +33,8 @@ Key Responsibilities:
 Other Notablles:
 Dojo program Team for Contino (Designing the Azure Stream) - the program attracted great IT minds and boosted their Cloud Skills which added more depth to the already amazing talent pool at Contino.
 
+Skills: Cloud Transformation · Technology Leadership · CNCF · Serverless · Landing Zones · Microsoft Azure · DevOps
+
 ### **Azure Practice Lead**
 _AC3 (May 2019 – Mar 2021, Melbourne, VIC, AU)_
 
@@ -43,6 +47,8 @@ Key Responsibilities:
 - Solution Architecture / Presales on Next-Generation, Modernisation, Cloud Foundations & Migration Projects.
 - Product Management for AC3's Azure Offerings.
 - Key Technology resource for the Managed Services arm, assisting with technology and commercial landscape of Azure Cloud Solution Partner program.
+
+Skills: Cloud Transofmration · Managed Services · Cloud Adoption Framework · Cloud Practice Management · DevOps · Azure · Cloud Foundations
 
 ### **Cloud Solution Architect**
 _KPMG Australia (Dec 2018 – May 2019, Melbourne, VIC, AU)_
