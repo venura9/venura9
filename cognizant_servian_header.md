@@ -3,7 +3,7 @@
 
 # Venura Athukorala
 _**Enagement Lead**_\
-`[ Venura.Athukorala@cognizant.com ]` . `[📍 Melbourne, Victoria 🇦🇺 ]` . `[ https://www.linkedin.com/in/venura9/ ]`
+`[ Venura.Athukorala@cognizant.com ]` . `[ Melbourne, Victoria, AU ]` . `[ https://www.linkedin.com/in/venura9/ ]`
 
 ## Overview
 
