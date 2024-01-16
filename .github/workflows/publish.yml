@@ -34,7 +34,7 @@ jobs:
             -V geometry:a4paper
             -V geometry:margin=2cm
             -V geometry:nohead
-            work_header.md experience.md certifications.md education.md
+            work_resume_header.md experience.md certifications.md education.md
           
       - uses: actions/upload-artifact@v4
         with:
