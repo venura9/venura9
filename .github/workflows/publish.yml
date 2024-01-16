@@ -28,8 +28,8 @@ jobs:
       - uses: docker://pandoc/latex:2.9
         with:
           args: >-
-            --pdf-engine=xelatex
             --output=work_resume.pdf
+            -f gfm -t html5 --metadata pagetitle="Venura Athukorala"
             -V documentclass=scrarticle
             -V geometry:a4paper
             -V geometry:margin=2cm
