@@ -1,5 +1,5 @@
 <img align="right" width="200" src="https://cognizant.scene7.com/is/image/cognizant/cognizant-servian-logo">
-<br/><br/><br/><br/>
+<br/><br/>
 
 # Venura Athukorala
 _**Enagement Lead**_\
@@ -18,9 +18,9 @@ Cloud-Native Technology Leader with 15+ years of high-stakes delivery experience
 - Cloud Foundations
 - Cloud Migrations 
 
-## **_Key Cognizant Customers:_**
+## **_Key Cognizant Customers_**
 
-- _BHP: Establishment of Organisational Patterns for Containerisation, Application Modernisation, Principal Architecture for Cloud Migration and Transoformation_
-- _Australian Red Cross Lifeblood: Cloud Adoption Discovery, Asessment and Planning_
-- _AGL: Enteprise Architecture and strategy for Cloud Security posture improvement_
-- _VicHealth: Cloud and Data Foundations Discovery, Design and Architecture_
+- _**BHP:** Establishment of Organisational Patterns for Containerisation, Application Modernisation, Principal Architecture for Cloud Migration and Transoformation_
+- _**Australian Red Cross Lifeblood:** Cloud Adoption Discovery, Asessment and Planning_
+- _**AGL:** Enteprise Architecture and strategy for Cloud Security posture improvement_
+- _**VicHealth:** Cloud and Data Foundations Discovery, Design and Architecture_
