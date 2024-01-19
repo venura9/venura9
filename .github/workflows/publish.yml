@@ -17,24 +17,32 @@ jobs:
       - uses: docker://venura9/pandoc
         with:
           args: >-
-            pandoc --pdf-engine=xelatex
-            --output=resume.pdf
-            -V documentclass=scrarticle
-            -V geometry:a4paper
-            -V geometry:margin=2cm
-            -V geometry:nohead
+            pandoc
+            -V papersize=a4
+            -V margin-top=1cm
+            -V margin-left=1cm
+            -V margin-right=1cm
+            -V margin-bottom=1cm
+            -f gfm
+            -t html5
+            --metadata pagetitle="Venura Athukorala"
+            --output=personal_resume.pdf
             resume_header.md experience.md certifications.md education.md
 
       - uses: docker://venura9/pandoc
         with:
           args: >-
-            pandoc --output=work_resume.pdf
-            -f gfm -t html5 --metadata pagetitle="Venura Athukorala"
-            -V documentclass=scrarticle
-            -V geometry:a4paper
-            -V geometry:margin=2cm
-            -V geometry:nohead
-            work_resume_header.md experience.md certifications.md education.md
+            pandoc
+            -V papersize=a4
+            -V margin-top=1cm
+            -V margin-left=1cm
+            -V margin-right=1cm
+            -V margin-bottom=1cm
+            -f gfm
+            -t html5
+            --metadata pagetitle="Venura Athukorala"
+            --output=work_resume.pdf
+            work_resume_header.md work_resume_experience.md certifications.md education.md
           
       - uses: actions/upload-artifact@v4
         with:
