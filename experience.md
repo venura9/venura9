@@ -2,7 +2,7 @@
 
 ## **Distinguished Technologist (Engadgement Lead)**
 _Contino, Acquired by Cognizant  (Jul 2022 – Present, Melbourne, VIC, AU)_\
-_`From 01/May/2023 reffered as Congnizant Servian Service Line in Australia`_
+_`From 01/May/2023 referred as Congnizant Servian Service Line in Australia`_
 
 The role focuses on providing leadership, guidance, mentorship and technical expertise across Cloud (mainly Azure) and Automation, in addition to being a leader in complex technology project delivery and driving the organisational revenue through sales and partner engagement. 
 
@@ -31,7 +31,7 @@ Key Responsibilities:
 - Providing thought Leadership Internally, Externally and in front of Customers.
 - Technical Pre-Sales for Cloud Solutions, RFI/RFP, Etc.
 
-Other Notablles:
+Other Notables:
 Dojo program Team for Contino (Designing the Azure Stream) - the program attracted great IT minds and boosted their Cloud Skills which added more depth to the already amazing talent pool at Contino.
 
 > Skills: Cloud Transformation · Technology Leadership · CNCF · Serverless · Landing Zones · Microsoft Azure · DevOps
@@ -49,7 +49,7 @@ Key Responsibilities:
 - Product Management for AC3's Azure Offerings.
 - Key Technology resource for the Managed Services arm, assisting with technology and commercial landscape of Azure Cloud Solution Partner program.
 
-> Skills: Cloud Transofmration · Managed Services · Cloud Adoption Framework · Cloud Practice Management · DevOps · Azure · Cloud Foundations
+> Skills: Cloud Transformation · Managed Services · Cloud Adoption Framework · Cloud Practice Management · DevOps · Azure · Cloud Foundations
 
 ## **Cloud Solution Architect**
 _KPMG Australia (Dec 2018 – May 2019, Melbourne, VIC, AU)_
@@ -67,7 +67,7 @@ Solution Architect and evangelist for Azure, Cloud and DevOps for the KPMG Light
 _KPMG Australia (Jun 2018 – Dec 2018, Melbourne, VIC, AU)_
 
 - Key Azure/DevOps technical resource for the KPMG Lighthouse Technology Solutions Team as the key cloud architecture resource.
-- Mentoring a 10 person Development/Ops Team to establish an in-house development team.
+- Mentoring a 10-person Development/Ops Team to establish an in-house development team.
 - Worked on developing and enhancing the DevOps pipelines of existing / new applications.
 - Introduced the “everything as code” concept to unlock the various development teams within KPMG Australia to manage their own CI/ CD, setting them up with the right access, governance and resources. 
 
