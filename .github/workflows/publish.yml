@@ -23,7 +23,6 @@ jobs:
             -V margin-left=1cm
             -V margin-right=1cm
             -V margin-bottom=1cm
-            --number-sections
             -f gfm
             -t html5
             --metadata pagetitle="Venura Athukorala"
@@ -39,7 +38,6 @@ jobs:
             -V margin-left=1cm
             -V margin-right=1cm
             -V margin-bottom=1cm
-            --number-sections
             -f gfm
             -t html5
             --metadata pagetitle="Venura Athukorala"
