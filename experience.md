@@ -1,6 +1,6 @@
 # Experience
 
-## **Distinguished Technologist (Engadgement Lead)**
+## **Distinguished Technologist (Engagement Lead)**
 _Contino, Acquired by Cognizant  (Jul 2022 – Present, Melbourne, VIC, AU)_\
 _`From 01/May/2023 referred as Congnizant Servian Service Line in Australia`_
 
