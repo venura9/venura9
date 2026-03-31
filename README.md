@@ -1,7 +1,7 @@
 # Hey, I’m Venura 👋
 
 **Microsoft Engineering Leader @ PwC Australia**  
-**Organiser — Azure Builders Melbourne**  
+**Organiser/Founder - Azure Builders Melbourne**  
 *Applied common sense in the cloud. Part-time Social Media Manager*
 
 <p>
