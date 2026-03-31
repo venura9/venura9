@@ -2,8 +2,7 @@
 
 > *Applied Common Sense in the Cloud.*
 
-Cloud & DevOps Practitioner at **PwC Australia** · Organiser of **Azure Builders Melbourne** · Azure MVP Nominee (Developer Technologies)
-
+Microsoft Engineering Leader at **PwC Australia** · Organiser of **Azure Builders Melbourne**
 -----
 
 ## 🔧 Stack
