@@ -3,6 +3,9 @@
 > *Applied Common Sense in the Cloud.*
 
 Microsoft Engineering Leader at **PwC Australia** · Organiser of **Azure Builders Melbourne**
+
+> 🔑 Find me everywhere as **`venura9`** — [GitHub](https://github.com/venura9) · [LinkedIn](https://linkedin.com/in/venura9)
+
 -----
 
 ## 🔧 Stack
