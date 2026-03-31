@@ -2,7 +2,7 @@
 
 **Microsoft Engineering Leader @ PwC Australia**  
 **Organiser — Azure Builders Melbourne**  
-*Applied common sense in the cloud.*
+*Applied common sense in the cloud. Part-time Social Media Manager*
 
 <p>
   <a href="https://linkedin.com/in/venura9"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-venura9-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
